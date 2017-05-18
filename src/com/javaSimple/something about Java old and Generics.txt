@@ -1,0 +1,5 @@
+this is old java class. in this class we have a ArrayList of type list .
+we are adding integer to list. 
+here we are trying to cast the integer type to String this is error, which will be shown in only runtime.
+
+the power of generics is it show error in compile time. it make us know that we are using proper java codes.

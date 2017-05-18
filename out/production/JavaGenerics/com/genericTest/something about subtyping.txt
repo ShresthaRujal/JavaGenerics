@@ -1,0 +1,10 @@
+GenericSubTyping class contains generify list of type Number.
+we have added integer value to the list, Double value.
+since we have a list or collection of Nummber
+we may add Integer of Double to it.
+because Integer and Double is the subtype of Number..
+
+In Commented section:
+since the Integer type is Subtype of Number,
+Generify list of type Number and Generify List of type Integer
+assignment are not allowd because List Integer is not a Subtype of List Number.
